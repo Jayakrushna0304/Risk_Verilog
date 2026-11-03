@@ -17,6 +17,6 @@ This repository contains various Verilog and SystemVerilog designs and testbench
 5. **Half_Adder_D flip-flop**
    - `half_adder.v`: Half adder design
    - `half_adder_tb.v`: Testbench for half adder
-6. **project/alu4bit**
+6. **alu4bit**
    - `alu4.v`: 4-bit Arithmetic Logic Unit
    - `alu4_tb.v`: Testbench for 4-bit ALU
